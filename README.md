@@ -4,3 +4,4 @@ commit 1.
 git commit 2.
 git comment 3.
 teste de erro.
+teste erro 2.
